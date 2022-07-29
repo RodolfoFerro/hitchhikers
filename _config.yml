@@ -1,7 +1,7 @@
 # Site settings
 title: The Hitchhiker's Club
 email: ferro@cimat.mx
-baseurl: "/"
+baseurl: "/hitchhikers"
 url: ""
 description: "The Hitchhiker's Guide to an Interconnected World. Clubes de Ciencia México, 2022."
 keywords: "science, python, complex networks"
