@@ -4,9 +4,8 @@ modal-id: 1
 date: 2022-07-31
 img: day1.png
 alt: image-alt
-slides-1:
+slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ_PDHiDp2oW9Y7IoSvQanFndbYPm_uUyYXgsdebloqvYPBhxQKSNj7xYGEYmaPrVXnGcouKqjJYEtk/pub?start=false&loop=false&delayms=3000"
 notebook-1:
-slides-2:
 notebook-2:
 description: |
   On this day, we will get started. We will have the first part of our 

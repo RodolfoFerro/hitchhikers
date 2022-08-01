@@ -21,27 +21,21 @@
                         <p>{{ post.description }}</p>
                         {% endif %}
                         <ul class="list-inline item-details">
-                            {% if post.slides-1 %}
-                            <li><h4>Slides pt. I:</h4>
-                                <strong><a href="{{ post.slides-1 }}"><img src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato" alt="Google Slides"/></a>
+                            {% if post.slides %}
+                            <li><h4>Slides:</h4>
+                                <strong><a href="{{ post.slides }}" target="_blank"><img src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato" alt="Google Slides"/></a>
                                 </strong>
                             </li><br>
                             {% endif %}
                             {% if post.notebook-1 %}
                             <li><h4>Notebook pt. I:</h4>
-                                <strong><a href="{{ post.notebook-1 }}"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-                                </strong>
-                            </li><br>
-                            {% endif %}
-                            {% if post.slides-2 %}
-                            <li><h4>Slides pt. II:</h4>
-                                <strong><a href="{{ post.slides-2 }}"><img src="https://img.shields.io/static/v1?label=Slides&message=Google%20Slides&color=tomato" alt="Google Slides"/></a>
+                                <strong><a href="{{ post.notebook-1 }}" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
                                 </strong>
                             </li><br>
                             {% endif %}
                             {% if post.slides-1 %}
                             <li><h4>Notebook pt. II:</h4>
-                                <strong><a href="{{ post.notebook-2 }}"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+                                <strong><a href="{{ post.notebook-2 }}" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
                                 </strong>
                             </li><br>
                             {% endif %}
