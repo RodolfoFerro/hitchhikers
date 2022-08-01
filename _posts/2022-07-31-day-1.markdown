@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2022-07-31
+img: day1.png
+alt: image-alt
+slides-1:
+notebook-1:
+slides-2:
+notebook-2:
+description: |
+  On this day, we will get started. We will have the first part of our 
+  introduction to Python programming. We will also learn about networks.
+---
