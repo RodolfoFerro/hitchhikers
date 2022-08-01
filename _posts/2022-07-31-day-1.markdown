@@ -5,7 +5,7 @@ date: 2022-07-31
 img: day1.png
 alt: image-alt
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vQ_PDHiDp2oW9Y7IoSvQanFndbYPm_uUyYXgsdebloqvYPBhxQKSNj7xYGEYmaPrVXnGcouKqjJYEtk/pub?start=false&loop=false&delayms=3000"
-notebook-1:
+notebook-1: https://colab.research.google.com/gist/RodolfoFerro/a031fc10cd6539f90341cc63cff119e8/intro-a-python.ipynb
 notebook-2:
 description: |
   On this day, we will get started. We will have the first part of our 
