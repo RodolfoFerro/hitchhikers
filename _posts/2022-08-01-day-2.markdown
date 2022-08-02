@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2022-08-01
+img: day2.png
+alt: image-alt
+slides: https://docs.google.com/presentation/d/e/2PACX-1vTEnhmmPYMjfZMrJif6p1LaRx91xWk-fUDxK76QbmpyzH0ER2YqOXQ15Rf07-6rA5xXoocCKbJ5Wa9J/pub?start=false&loop=false&delayms=3000
+notebook-1: https://colab.research.google.com/gist/RodolfoFerro/a031fc10cd6539f90341cc63cff119e8/intro-a-python.ipynb
+notebook-2:
+description: |
+  On this day, we will get started. We will have the first part of our 
+  introduction to Python programming. We will also learn about networks.
+---
