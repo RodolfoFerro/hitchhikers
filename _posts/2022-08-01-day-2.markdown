@@ -8,6 +8,5 @@ slides: https://docs.google.com/presentation/d/e/2PACX-1vTEnhmmPYMjfZMrJif6p1LaR
 notebook-1: https://colab.research.google.com/gist/RodolfoFerro/a031fc10cd6539f90341cc63cff119e8/intro-a-python.ipynb
 notebook-2:
 description: |
-  On this day, we will get started. We will have the first part of our 
-  introduction to Python programming. We will also learn about networks.
+  On this day, we will continue our adventure learning about Python and networks.
 ---
